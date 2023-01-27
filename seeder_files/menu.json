@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Mie_Lebar",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 30000,
+    "priceDelivery": 30000
+  },
+  {
+    "name": "Mie_Kecil",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 30000,
+    "priceDelivery": 30000
+  },
+  {
+    "name": "Mie_Jumbo",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 35000,
+    "priceDelivery": 35000
+  },
+  {
+    "name": "Mie_Pelangi",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 35000,
+    "priceDelivery": 35000
+  },
+  {
+    "name": "Baso_Goreng",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 7000,
+    "priceDelivery": 8000
+  },
+  {
+    "name": "Pangsit Goreng",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 1500,
+    "priceDelivery": 2000
+  },
+  {
+    "name": "Pangsit Goreng Isi",
+    "type": 1,
+    "stock_id": 87,
+    "priceOnSite": 2500,
+    "priceDelivery": 3000
+  }
+]
